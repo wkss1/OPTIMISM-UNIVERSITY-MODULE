@@ -137,6 +137,7 @@ Módulo 3: Desarrollo en Blockchain con Solidity (6 semanas)
 (7) Oportunidades para desarrolladores en Web3: [09-07-24]
 
 El ecosistema Web3, código abierto y aplicaciones.
+github twitter linkedin
 Demanda de desarrolladores blockchain.
 Habilidades y conocimientos necesarios.
 Recursos para aprender y empezar a desarrollar.
@@ -156,6 +157,7 @@ Lenguaje de programación para smart contracts.
 Sintaxis básica de Solidity.
 Tipos de datos, variables y estructuras de control.
 Funciones y eventos.
+Ej de practica (cryptozombies etc)
 
 QUIZ 6
 
@@ -173,6 +175,7 @@ Concepto de smart contract y sus características.
 Creación de un smart contract básico.
 Interfaz y almacenamiento de datos.
 Funciones de control de acceso.
+ejemplos
 
 QUIZ 7
 
