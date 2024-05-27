@@ -1,11 +1,13 @@
 **Temario, Contenido, Evaluaciones y Recompensas**
 
-Módulo 1: Fundamentos de Blockchain (3 semanas)
-Introducción a la tecnología Blockchain: 
+Módulo 1: Fundamentos de Blockchain (3 sesiones)
 
+(1) Introducción a la tecnología Blockchain: [18-06-24]
+ALBERTO
 
 Conceptos básicos de la descentralización y sus ventajas.
 Historia y evolución de Blockchain.
+web3
 Funcionamiento básico de una red Blockchain.
 Tipos de redes Blockchain: pública, privada e híbrida.
 
@@ -16,13 +18,13 @@ QUIZ 1
 ¿Qué es la criptografía y cómo se utiliza para asegurar las redes Blockchain?
 
 
-Componentes de Blockchain:
+(2) Componentes de Blockchain: [20-06-24]
 
 Nodos y redes: ¿Qué son los nodos y qué funciones cumplen?
 La cadena de bloques: estructura y componentes.
 Criptografía y seguridad en Blockchain.
 Minería y consenso: mecanismos para asegurar la red.
-Ethereum Mainnet
+Ethereum Mainnet y EVM
 
 
 QUIZ 2
@@ -36,7 +38,7 @@ Investigue y mencione un proyecto o empresa que esté utilizando Blockchain de m
 Required: 
 Create a wallet and get Sepolia ETH
 
-Casos de uso de Blockchain:
+(3) Casos de uso de Blockchain: [25-06-24]
 
 Rastreo de la cadena de suministro.
 Finanzas: pagos transfronterizos, gestión de activos, KYC.
@@ -44,6 +46,7 @@ Identidad digital autogestionada.
 Voto electrónico.
 Salud: registros médicos electrónicos.
 Attestations
+
 Reward: (10 OP Tokens)
 This will be the first reward for the students, they will receive a portion of OP tokens to fund their wallets and start performing transactions.
 
@@ -59,15 +62,16 @@ Explique el concepto de "attestations" en el contexto de Blockchain.
 Elija un caso de uso de Blockchain y describa cómo se implementa la tecnología en ese escenario.
 
 
-Módulo 2: Optimism (3 semanas)
+Módulo 2: Optimism (3 sesiones)
 
-Introducción a Optimism:
+(4) Introducción a Optimism: [27-06-24]
 
 ¿Qué es Optimism? Layer 2
 Solución de escalabilidad para Ethereum.
 Beneficios de usar Optimism.
 DAOs
 OP Stack
+modularidad
 
 Required: 
 Create an Account on the Optimism Governance Forum and introduce yourself and let everyone know your experience so far.
@@ -84,7 +88,7 @@ Defina Optimism y explique cómo funciona como una solución de escalabilidad de
 Explique el concepto de OP Stack y su papel en la gobernanza de Optimism.
 Explique que es Delegar el poder de voto y como hacerlo.
 
-Optimism Ecosystem and RPGF:
+(5) Optimism Ecosystem and RPGF: [02-07-24]
 
 OP Governanza
 ¿Qué es el RPGF?
@@ -95,6 +99,7 @@ Cómo solicitar participar en el RPGF.
 
 Required: 
 Delegate OP tokens
+
 QUIZ 4
 
 ¿Qué diferencia hay entre un Grant y el programa RPGF de Optimism?
@@ -104,7 +109,7 @@ Describa paso a paso cómo solicitar una OP Mission Grant, incluyendo las recome
 Investigue y mencione un proyecto que haya recibido una OP Mission Grant y explique su objetivo.
 
 
-OP Mission Grants:
+(6) OP Mission Grants: [04-07-24]
 
 
 ¿Qué es un Grant?
@@ -113,10 +118,8 @@ Misiones y Aplicación
 Paso a Paso y recomendaciones
 
 Reward: (10 OP Tokens)
-This will be the first reward for the students, they will receive a portion of OP tokens to fund their wallets and start performing transactions.
-
-
 This will be the 3rd reward for the students
+
 Required: 
 Make an attestation about the 2nd module and educators.
 
@@ -131,7 +134,7 @@ Evalúe el futuro de Optimism y su potencial impacto en la industria blockchain.
 
 Módulo 3: Desarrollo en Blockchain con Solidity (6 semanas)
 
-Oportunidades para desarrolladores en Web3:
+(7) Oportunidades para desarrolladores en Web3: [09-07-24]
 
 El ecosistema Web3, código abierto y aplicaciones.
 Demanda de desarrolladores blockchain.
@@ -147,7 +150,7 @@ Enumere y describa brevemente algunos recursos disponibles para aprender y empez
 ¿Qué herramientas y plataformas son populares para el desarrollo de aplicaciones descentralizadas (dApps)?
 
 
-Introducción a Solidity:
+(8) Introducción a Solidity: [11-07-24]
 
 Lenguaje de programación para smart contracts.
 Sintaxis básica de Solidity.
@@ -163,7 +166,8 @@ Describa los diferentes tipos de datos, variables y estructuras de control dispo
 
 Reward: (10 OP Tokens)
 This will be the 4th reward for the students
-Smart contracts:
+
+(9) Smart contracts: [16-07-24]
 
 Concepto de smart contract y sus características.
 Creación de un smart contract básico.
@@ -176,7 +180,7 @@ Desarrolle un ejemplo simple de un contrato inteligente en Solidity y haga deplo
 Explique cómo implementar funciones de control de acceso en un contrato inteligente.
 ¿Qué son las librerías y módulos en Solidity y cómo se pueden utilizar?
 
-Programación avanzada en Solidity:
+(10) Programación avanzada en Solidity: [18-07-24]
 
 Herencia y composición de contratos.
 Librerías y módulos.
@@ -186,7 +190,6 @@ Pruebas unitarias y de integración.
 QUIZ 8
 
 Explique el concepto de herencia y composición de contratos en Solidity.
-
 Describa las diferentes opciones disponibles para la gestión de versiones de contratos inteligentes.
 ¿Cómo se pueden implementar pruebas unitarias y de integración para un contrato inteligente?
 ¿Qué medidas se pueden tomar para mejorar la seguridad y la confiabilidad de los smart contracts?
@@ -195,24 +198,27 @@ Describa las diferentes opciones disponibles para la gestión de versiones de co
 Reward: (10 OP Tokens)
 This will be the 5th reward for the students
 
-Despliegue de smart contracts en Optimism:
+(11) Despliegue de smart contracts en Optimism: [23-07-24]
 
 Redes de prueba y producción.
 Opciones de deployment: Optimistic Ethereum, Kovan, etc.
-Interacción con smart contracts desde una interfaz web.
-Open zeppelin
+Interacción con smart contracts desde una interfaz web. exploradores
+Open zeppelin y herramientas de deploy
 
 Required: 
 Make an on-chain attestation about the module 3 of the course and educators. 
 
 EXAMEN 3
 
-
 Explique cómo se puede implementar un sistema de tokenización utilizando Solidity.
 Describa las diferentes opciones disponibles para la interacción con un contrato inteligente desde una interfaz web.
 Analice los desafíos y las mejores prácticas para la seguridad en el desarrollo de dApps.
 Evalúe el futuro del desarrollo en Solidity y su potencial impacto en la industria blockchain.
-Proyecto Final: Desarrolle un contrato inteligente completo en Solidity que representa un caso de uso completo, incluyendo funciones, eventos, almacenamiento de datos y control de acceso.
+
+(12) Proyecto Final: [25-07-24]
+Desarrolle un contrato inteligente completo en Solidity que representa un caso de uso, incluyendo funciones, eventos, almacenamiento de datos y control de acceso. y Expongalo a la clase.
+
+(13) Graduación [30-07-24]
 
 Required: 
 Attestation: Make an attestation now that you have finalized the entire course
@@ -220,25 +226,27 @@ Attestation: Make an attestation now that you have finalized the entire course
 Reward: (50 OP Tokens)
 This will be the final reward for the students upon a successful completion of the program
 
-Recursos:
+
+- Recursos:
 Glosario de términos Blockchain
 Documentación de Optimism
 Ejemplos de código y proyectos en Solidity
 Comunidades online y eventos de Blockchain
 
-Metodología:
+- Metodología:
 Clases presenciales Teóricas
 Casos de estudio y proyectos prácticos
 Laboratorios de desarrollo de smart contracts
 Debate y aprendizaje colaborativo
 
-Evaluación:
+- Evaluación:
 Exámenes / quizzes
 Examen final proyecto práctico
 Hackathon ETH CostaRica
 
 
-Objetivo del curso:
+
+- Objetivo del curso:
 
 Brindar a los estudiantes una comprensión completa de la tecnología Blockchain, con un enfoque en el ecosistema Optimism.
 
@@ -247,7 +255,9 @@ Comprender el funcionamiento de una red Blockchain.
 Participar en la gobernanza de una DAO.
 Desarrollar smart contracts en Solidity.
 Desplegar smart contracts en Optimism.
-Registro:
+
+
+- Registro:
 
 Universidades y Educadores
 Estudiantes y interacciones
