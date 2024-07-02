@@ -2,7 +2,7 @@
 
 Módulo 1: Fundamentos de Blockchain (3 sesiones)
 
-(1) Introducción a la tecnología Blockchain: [18-06-24]
+(1) Introducción a la tecnología y componentes de la Blockchain: [18-06-24]
 ALBERTO
 
 Conceptos básicos de la descentralización y sus ventajas.
@@ -10,21 +10,36 @@ Historia y evolución de Blockchain.
 web3
 Funcionamiento básico de una red Blockchain.
 Tipos de redes Blockchain: pública, privada e híbrida.
+Nodos y redes: ¿Qué son los nodos y qué funciones cumplen?
+La cadena de bloques: estructura y componentes.
+Criptografía hashes y seguridad en Blockchain.
+Minería y consenso: mecanismos para asegurar la red.
+Ethereum Mainnet y EVM
+Intro al explorador de bloques y el GAS
+
+Required: 
+Create a wallet and provide the address
 
 QUIZ 1
 
 ¿Qué es la descentralización y cuáles son sus ventajas en el contexto de Blockchain?
 ¿Cuáles son los componentes principales de una red Blockchain?
 ¿Qué es la criptografía y cómo se utiliza para asegurar las redes Blockchain?
+Mintear NFT de asistencia
+
+INVESTIGAR
+Diferencias entre POW y POS
 
 
-(2) Componentes de Blockchain: [20-06-24]
+(2) Web3 guía para desarrolladores: [20-06-24]
 
-Nodos y redes: ¿Qué son los nodos y qué funciones cumplen?
-La cadena de bloques: estructura y componentes.
-Criptografía y seguridad en Blockchain.
-Minería y consenso: mecanismos para asegurar la red.
-Ethereum Mainnet y EVM
+Codigo Abierto
+Presencia Profesional
+Grants
+Trabajos web3
+Freelancing
+Emprendimiento
+Airdrops
 
 
 QUIZ 2
@@ -36,19 +51,24 @@ Describa brevemente el proceso de minería y consenso en una red Blockchain.
 Investigue y mencione un proyecto o empresa que esté utilizando Blockchain de manera innovadora.
 
 Required: 
-Create a wallet and get Sepolia ETH
-
-(3) Casos de uso de Blockchain: [25-06-24]
-
-Rastreo de la cadena de suministro.
-Finanzas: pagos transfronterizos, gestión de activos, KYC.
-Identidad digital autogestionada.
-Voto electrónico.
-Salud: registros médicos electrónicos.
-Attestations
+Create a Twitter, linkedin and GitHub with the recomendations viewed in class for your dev Journey
 
 Reward: (10 OP Tokens)
 This will be the first reward for the students, they will receive a portion of OP tokens to fund their wallets and start performing transactions.
+
+(3) Ethereum y Casos de uso de Blockchain: [25-06-24]
+
+Casos de Uso ETH
+Layer 1s and EVM Chains
+Intro a DEFI
+Identidad digital autogestionada.
+Attestations
+Interactuando con la blockchain
+Usando gas y block explorer
+Revisando contratos
+Crear Github Passport
+Escalando ETH y EIPs
+
 
 Required: 
 Make an on-chain attestation about the module 1 of the course and educators. 
