@@ -7,11 +7,11 @@ ALBERTO
 
 Conceptos básicos de la descentralización y sus ventajas.
 Historia y evolución de Blockchain.
-web3
+web3 / optimism
 Funcionamiento básico de una red Blockchain.
 Tipos de redes Blockchain: pública, privada e híbrida.
 Nodos y redes: ¿Qué son los nodos y qué funciones cumplen?
-La cadena de bloques: estructura y componentes.
+La cadena de bloques: estructura componentes y bloques.
 Criptografía hashes y seguridad en Blockchain.
 Minería y consenso: mecanismos para asegurar la red.
 Ethereum Mainnet y EVM
@@ -21,10 +21,6 @@ Required:
 Create a wallet and provide the address
 
 QUIZ 1
-
-¿Qué es la descentralización y cuáles son sus ventajas en el contexto de Blockchain?
-¿Cuáles son los componentes principales de una red Blockchain?
-¿Qué es la criptografía y cómo se utiliza para asegurar las redes Blockchain?
 Mintear NFT de asistencia
 
 INVESTIGAR
@@ -34,6 +30,7 @@ Diferencias entre POW y POS
 (2) Web3 guía para desarrolladores: [20-06-24]
 
 Codigo Abierto
+Dev Blueprint
 Presencia Profesional
 Grants
 Trabajos web3
@@ -41,17 +38,11 @@ Freelancing
 Emprendimiento
 Airdrops
 
-
-QUIZ 2
- 	
-Mencione 3 casos de uso específicos de Blockchain en diferentes sectores.
-¿Qué es Ethereum Mainnet y cómo se relaciona con la tecnología Blockchain?
-¿Qué desafíos enfrenta la adopción de Blockchain en las empresas?
-Describa brevemente el proceso de minería y consenso en una red Blockchain.
-Investigue y mencione un proyecto o empresa que esté utilizando Blockchain de manera innovadora.
+Mint assistance.
 
 Required: 
 Create a Twitter, linkedin and GitHub with the recomendations viewed in class for your dev Journey
+Investigation: whats is a layer 2 and what is optimism.
 
 Reward: (10 OP Tokens)
 This will be the first reward for the students, they will receive a portion of OP tokens to fund their wallets and start performing transactions.
@@ -59,10 +50,9 @@ This will be the first reward for the students, they will receive a portion of O
 (3) Ethereum y Casos de uso de Blockchain: [25-06-24]
 
 Casos de Uso ETH
-Layer 1s and EVM Chains
+Layer 1s and EVM Chains vs non EVM
 Intro a DEFI
 Identidad digital autogestionada.
-Attestations
 Interactuando con la blockchain
 Usando gas y block explorer
 Revisando contratos
@@ -71,34 +61,30 @@ Escalando ETH y EIPs
 
 
 Required: 
-Make an on-chain attestation about the module 1 of the course and educators. 
+Mint assistance.
 
 Examen 1: 
 
-Desarrolle un diagrama que represente la estructura de una cadena de bloques y explique sus componentes.
-Compare y contraste las ventajas y desventajas de los diferentes tipos de redes Blockchain.
-Explique en detalle cómo funciona el proceso de consenso Proof-of-Work (PoS) en una red Blockchain.
-Explique el concepto de "attestations" en el contexto de Blockchain.
-Elija un caso de uso de Blockchain y describa cómo se implementa la tecnología en ese escenario.
-
+Review your NFT minting TX on the explorer
+Mint a POAP with the course whitelisted address.
+Get passport to +10 points
+Mine Sepolia ETH on the faucet.
 
 Módulo 2: Optimism (3 sesiones)
 
 (4) Introducción a Optimism: [27-06-24]
 
-¿Qué es Optimism? Layer 2
+¿Qué es Optimism? the superchain
 Solución de escalabilidad para Ethereum.
 Beneficios de usar Optimism.
-DAOs
+DAOs Optimism Governance
 OP Stack
-modularidad
+Modularidad
+Data Availability
 
 Required: 
 Create an Account on the Optimism Governance Forum and introduce yourself and let everyone know your experience so far.
-
-
-Reward: (10 OP Tokens).
-This will be the 2nd reward for the students
+Mint assistance
 
 
 QUIZ 3
@@ -108,49 +94,48 @@ Defina Optimism y explique cómo funciona como una solución de escalabilidad de
 Explique el concepto de OP Stack y su papel en la gobernanza de Optimism.
 Explique que es Delegar el poder de voto y como hacerlo.
 
-(5) Optimism Ecosystem and RPGF: [02-07-24]
+(5) The Superchain Ecosystem RPGF & OP Mission Grants: [02-07-24]
 
 OP Governanza
+Hauses and councils
+citizens and delegates
 ¿Qué es el RPGF?
 Cómo funciona el RPGF.
 Beneficios del RPGF para los desarrolladores.
 Cómo solicitar participar en el RPGF.
-
-
-Required: 
-Delegate OP tokens
-
-QUIZ 4
-
-¿Qué diferencia hay entre un Grant y el programa RPGF de Optimism?
-Explique las misiones y el proceso de aplicación para las OP Mission Grants.
-Describa paso a paso cómo solicitar una OP Mission Grant, incluyendo las recomendaciones importantes.
-¿Cuáles son los beneficios que ofrece el RPGF para los desarrolladores que trabajan en Optimism?
-Investigue y mencione un proyecto que haya recibido una OP Mission Grant y explique su objetivo.
-
-
-(6) OP Mission Grants: [04-07-24]
-
-
 ¿Qué es un Grant?
 RPGF vs Grants
 Misiones y Aplicación
 Paso a Paso y recomendaciones
+Airdrops
+
+
+QUIZ 4
+Mint assistance
+Delegate the OP tokens earned so far.
+
+
+(6) Zero Knowledge: [04-07-24]
+
+
+What is Zero knowledge
+Zero Knowledge Proofs
+Types of ZK proofs
+Types of ZK Roll ups
+Oportunities in ZK
+Multiproof and ZK in Optimism
 
 Reward: (10 OP Tokens)
-This will be the 3rd reward for the students
+This will be the 2nd reward for the students
 
 Required: 
-Make an attestation about the 2nd module and educators.
+Mint assistance
+Make a Comment giving feedback on the forum.
+Mint Module 2 Completion POAP.
 
 EXAMEN 2
-
-Analice las ventajas y desventajas de utilizar Optimism como plataforma de desarrollo.
-Compare y contraste Optimism con otras soluciones de escalabilidad para Ethereum.
-Explique cómo la gobernanza descentralizada (DAOs) se implementa en Optimism.
-Desarrolle un plan para un proyecto que podría ser financiado por el RPGF, incluyendo su objetivo, tecnología y beneficios.
-Evalúe el futuro de Optimism y su potencial impacto en la industria blockchain.
-¿Qué impacto tienen las OP Mission Grants en el ecosistema Optimism?
+Start looking into problems to solve, annauncement on the final project made.
+Crypto Zombies initial course as homework, poreraring for next module
 
 Módulo 3: Desarrollo en Blockchain con Solidity (6 semanas)
 
@@ -161,47 +146,52 @@ github twitter linkedin
 Demanda de desarrolladores blockchain.
 Habilidades y conocimientos necesarios.
 Recursos para aprender y empezar a desarrollar.
+Por que solidity
+Que es un contrato
+Mi primer smart contract en optimism
+
+Workshop on how to deploy, verify and interact with the hello world contract
+Create the teams for the final project
 
 QUIZ 5
-
-
-Analice la demanda actual de desarrolladores con habilidades en Blockchain.
-Mencione las habilidades y conocimientos necesarios para ser un desarrollador exitoso en Web3.
-Enumere y describa brevemente algunos recursos disponibles para aprender y empezar a desarrollar en Solidity.
-¿Qué herramientas y plataformas son populares para el desarrollo de aplicaciones descentralizadas (dApps)?
+Mint assistance
+Deploy Hello world in OP Sepolia
 
 
 (8) Introducción a Solidity: [11-07-24]
 
 Lenguaje de programación para smart contracts.
 Sintaxis básica de Solidity.
-Tipos de datos, variables y estructuras de control.
+what is remix and how to use it
+Tipos de datos, variables
 Funciones y eventos.
-Ej de practica (cryptozombies etc)
+Ej de practica 
 
-QUIZ 6
+Workshop: deploy a token contract without any standards, what should a token have? 
+help and questions on final project.
 
-Explique la sintaxis básica del lenguaje de programación Solidity.
-Describa los diferentes tipos de datos, variables y estructuras de control disponibles en Solidity.
-¿Cómo se definen y utilizan las funciones y eventos en un contrato inteligente?
-¿Cómo se pueden almacenar datos de forma segura en un contrato inteligente?
+QUIZ 6 REQUIRED
+Deploy the contract on OP Sepolia
+Investigate ERC20 standard
 
-Reward: (10 OP Tokens)
-This will be the 4th reward for the students
 
-(9) Smart contracts: [16-07-24]
+(9) Smart contracts 2: [16-07-24]
 
 Concepto de smart contract y sus características.
-Creación de un smart contract básico.
+Despliegue de smart contracts en Optimism
+Hardhat y Truffle.
 Interfaz y almacenamiento de datos.
+Estructuras de control.
 Funciones de control de acceso.
 ejemplos
 
+Workshop: review the storage contract on class
+help and questions on final project.
+
 QUIZ 7
 
-Desarrolle un ejemplo simple de un contrato inteligente en Solidity y haga deploy en optimism
-Explique cómo implementar funciones de control de acceso en un contrato inteligente.
-¿Qué son las librerías y módulos en Solidity y cómo se pueden utilizar?
+Deploy the contract on OP Sepolia.
+
 
 (10) Programación avanzada en Solidity: [18-07-24]
 
@@ -210,33 +200,34 @@ Librerías y módulos.
 Gestión de errores y excepciones.
 Pruebas unitarias y de integración.
 
+Workshop de Pruebas unitarias.
+help and questions on final project.
+
 QUIZ 8
 
-Explique el concepto de herencia y composición de contratos en Solidity.
-Describa las diferentes opciones disponibles para la gestión de versiones de contratos inteligentes.
-¿Cómo se pueden implementar pruebas unitarias y de integración para un contrato inteligente?
-¿Qué medidas se pueden tomar para mejorar la seguridad y la confiabilidad de los smart contracts?
-
+Deploy en OP Sepolia.
 
 Reward: (10 OP Tokens)
-This will be the 5th reward for the students
+This will be the 3rd reward for the students
 
-(11) Despliegue de smart contracts en Optimism: [23-07-24]
+(11) Season 6 OP Governance: [23-07-24]
 
-Redes de prueba y producción.
-Opciones de deployment: Optimistic Ethereum, Kovan, etc.
-Interacción con smart contracts desde una interfaz web. exploradores
-Open zeppelin y herramientas de deploy
+- Mission Request, charmverse, requirements.
+- step by step applying with examples.
+- reviewing different missions.
+- Grant claiming tool mission review and example on the caliming process.
+- claiming contract review.
+- RPG4 builder review and results.
+help and questions on final project.
 
 Required: 
-Make an on-chain attestation about the module 3 of the course and educators. 
+mint asistance
+mint solidity module POAP with whitelisted address
+Investigate oportunities in missions
 
 EXAMEN 3
+team presentation of the final project for a last review in front of the class
 
-Explique cómo se puede implementar un sistema de tokenización utilizando Solidity.
-Describa las diferentes opciones disponibles para la interacción con un contrato inteligente desde una interfaz web.
-Analice los desafíos y las mejores prácticas para la seguridad en el desarrollo de dApps.
-Evalúe el futuro del desarrollo en Solidity y su potencial impacto en la industria blockchain.
 
 (12) Proyecto Final: [25-07-24]
 Desarrolle un contrato inteligente completo en Solidity que representa un caso de uso, incluyendo funciones, eventos, almacenamiento de datos y control de acceso. y Expongalo a la clase.
@@ -244,9 +235,10 @@ Desarrolle un contrato inteligente completo en Solidity que representa un caso d
 (13) Graduación [30-07-24]
 
 Required: 
-Attestation: Make an attestation now that you have finalized the entire course
+Present the final Project Live on the virtual session on the final day.
+Record a short video pitch selling and showing yourm product to the community in English, and then post it on the topic created for this on the governance forum
 
-Reward: (50 OP Tokens)
+Reward: (60 OP Tokens)
 This will be the final reward for the students upon a successful completion of the program
 
 
@@ -282,11 +274,7 @@ Desplegar smart contracts en Optimism.
 
 - Registro:
 
-Universidades y Educadores
 Estudiantes y interacciones
 Base de datos con contratos y transacciones
-Reporte semanal en el foro con retro
-Reporte mensual (por módulo)
+Reporte mensual (por módulo) en el foro
 Notas de los quizzes, exámenes y hackaton results
-
-DOC: https://docs.google.com/document/d/1YqS4lVNro4mx-IPqXHVoFIt5DS7Ipe21jplE_HqgAVM/edit?usp=sharing
