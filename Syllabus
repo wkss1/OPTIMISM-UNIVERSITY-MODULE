@@ -1,5 +1,7 @@
 **Temario, Contenido, Evaluaciones y Recompensas**
 
+#AUTOR: Alberto Galán
+
 Módulo 1: Fundamentos de Blockchain (3 sesiones)
 
 (1) Introducción a la tecnología y componentes de la Blockchain: [18-06-24]
@@ -230,7 +232,8 @@ team presentation of the final project for a last review in front of the class
 
 
 (12) Proyecto Final: [25-07-24]
-Desarrolle un contrato inteligente completo en Solidity que representa un caso de uso, incluyendo funciones, eventos, almacenamiento de datos y control de acceso. y Expongalo a la clase.
+Desarrolle un contrato inteligente completo en Solidity que representa un caso de uso, incluyendo funciones, eventos, almacenamiento de datos y control de acceso. y Expongalo a la clase. 
+Grabe un video corto en ingles como un sales pitch presentando su proyecto en el foro de optimism.
 
 (13) Graduación [30-07-24]
 
